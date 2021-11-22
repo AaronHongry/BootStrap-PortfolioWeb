@@ -23,3 +23,8 @@ body h1 {
   padding-top: 1em;
   font-size: 1.3em;
 }
+
+ul {
+   list-style-type: none;
+   padding: 0;
+}
